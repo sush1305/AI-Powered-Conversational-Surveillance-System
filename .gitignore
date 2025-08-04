@@ -1,0 +1,50 @@
+# Large model files
+*.gguf
+models/
+llama.cpp/models/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Surveillance data (optional - comment out if you want to track)
+surveillance_data/recorded_videos/
+surveillance_data/harmful_snapshots/
+surveillance_data/session_logs/
+surveillance_data/harmful_events_log/
+
+# Temporary files
+*.tmp
+*.temp
+nul
+
+# Log files
+*.log
+
+# Database files (optional)
+*.db
+*.sqlite
+
+# Vector database
+vector_db/
+
+# Downloaded models
+yolov8n.pt
+sentence-transformers/
