@@ -1,0 +1,14 @@
+{
+  "session_info": {
+    "session_id": "2025-08-04_22-00-31",
+    "start_time": "2025-08-04T22:00:31.360487",
+    "system_version": "AI Surveillance System v2.0",
+    "recording_status": "active"
+  },
+  "events": [],
+  "statistics": {
+    "total_events": 0,
+    "harmful_events": 0,
+    "recording_duration_seconds": 0
+  }
+}

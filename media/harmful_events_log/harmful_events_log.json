@@ -1,0 +1,26 @@
+{
+  "total_events": 2,
+  "sessions": {},
+  "events": [
+    {
+      "type": "fire",
+      "description": "Fire detected - test data",
+      "confidence": 0.9,
+      "timestamp": "2025-08-04T04:42:02.238803",
+      "session_id": "test_session",
+      "metadata": {
+        "test_data": true
+      }
+    },
+    {
+      "type": "weapon_detected",
+      "description": "Weapon detected - test data",
+      "confidence": 0.85,
+      "timestamp": "2025-08-04T04:32:02.238803",
+      "session_id": "test_session",
+      "metadata": {
+        "test_data": true
+      }
+    }
+  ]
+}

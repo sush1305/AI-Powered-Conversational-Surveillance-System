@@ -1,0 +1,23 @@
+{
+  "session_info": {
+    "session_id": "2025-08-04_04-30-22",
+    "start_time": "2025-08-04T04:30:22.134261",
+    "system_version": "AI Surveillance System v2.0",
+    "recording_status": "active"
+  },
+  "events": [
+    {
+      "timestamp": "2025-08-04T04:30:22.145251",
+      "event_type": "violence",
+      "confidence": 0.95,
+      "action_explanation": "Critical event detected! Snapshot saved: snapshot_2025-08-04_04-30-22_violence.jpg. Confidence: 0.95. Metadata: {'test': 'simulated_event'}",
+      "metadata": {},
+      "is_harmful": true
+    }
+  ],
+  "statistics": {
+    "total_events": 1,
+    "harmful_events": 1,
+    "recording_duration_seconds": 0
+  }
+}
